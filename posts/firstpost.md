@@ -1,12 +1,12 @@
 ---
 title: How to Save Money on Groceries Without Sacrificing Your Health
-date: 2020-5-8
-summary: One thing you learn very quickly living in a big city like Chicago is groceries aren't cheap. If you're like me, you've probably done a ton of research on how to save money on groceries.
-
-tags: 
+date: 2020-05-16T04:05:50.669Z
+summary: One thing you learn very quickly living in a big city like Chicago is
+  groceries aren't cheap. If you're like me, you've probably done a ton of
+  research on how to save money on groceries.
+tags:
   - save money on food
   - healthtips
-
 ---
 
 One thing you learn very quickly living in a big city like Chicago is groceries aren't cheap. If you're like me, you've probably done a ton of research on how to save money on groceries.
