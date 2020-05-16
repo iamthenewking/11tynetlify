@@ -1,14 +1,11 @@
 ---
-layout: layouts/home.njk
-title: Home
-date: 2020-05-16T06:41:33.805Z
-permalink: /
+layout: layouts/blog.njk
+title: Blog
+date: 2017-01-01
+permalink: /blog/index.html
 eleventyNavigation:
-  key: Home
-  order: 0
+  key: Blog
+  order: 2
 ---
-# Welcome
-
-
 
 [](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
